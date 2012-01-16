@@ -1,0 +1,10 @@
+C:\Documents and Settings\Roman\Dokumenty\Visual Studio 2008\Projects\TEST_port\TEST_port\bin\Debug\TEST_port.exe
+C:\Documents and Settings\Roman\Dokumenty\Visual Studio 2008\Projects\TEST_port\TEST_port\bin\Debug\TEST_port.pdb
+C:\Documents and Settings\Roman\Dokumenty\Visual Studio 2008\Projects\TEST_port\TEST_port\bin\Debug\TEST_port.xml
+C:\Documents and Settings\Roman\Dokumenty\Visual Studio 2008\Projects\TEST_port\TEST_port\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Roman\Dokumenty\Visual Studio 2008\Projects\TEST_port\TEST_port\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\Roman\Dokumenty\Visual Studio 2008\Projects\TEST_port\TEST_port\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Roman\Dokumenty\Visual Studio 2008\Projects\TEST_port\TEST_port\obj\Debug\TEST_port.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Roman\Dokumenty\Visual Studio 2008\Projects\TEST_port\TEST_port\obj\Debug\TEST_port.exe
+C:\Documents and Settings\Roman\Dokumenty\Visual Studio 2008\Projects\TEST_port\TEST_port\obj\Debug\TEST_port.xml
+C:\Documents and Settings\Roman\Dokumenty\Visual Studio 2008\Projects\TEST_port\TEST_port\obj\Debug\TEST_port.pdb

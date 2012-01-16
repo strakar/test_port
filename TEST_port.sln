@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Basic Express 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TEST_port", "TEST_port\TEST_port.vbproj", "{73F91BB6-BB55-431C-8C60-7D18BFD40661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F91BB6-BB55-431C-8C60-7D18BFD40661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F91BB6-BB55-431C-8C60-7D18BFD40661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F91BB6-BB55-431C-8C60-7D18BFD40661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F91BB6-BB55-431C-8C60-7D18BFD40661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
