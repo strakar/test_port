@@ -154,4 +154,6 @@ Partial Class Form1
     Friend WithEvents TextBox4 As System.Windows.Forms.TextBox
     Friend WithEvents Button6 As System.Windows.Forms.Button
 
+
+' Totot je KOOOOOONEC
 End Class
