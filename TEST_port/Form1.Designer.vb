@@ -156,4 +156,5 @@ Partial Class Form1
 
 
 ' Totot je KOOOOOONEC
+' toto je začátek
 End Class
